@@ -1,1 +1,3 @@
 # Data-science
+
+Este proyecto fue creado con la finalidad de afianzar y repasar los conceptos vistos en el curso de 'Curso de manipulación y transformación de datos con pandas y numpy', para realizar este ejercicio en particular se tomaron como referencia dos dataframes: 'SONY_Exercise_1 - SAP', 'SONY_Exercise_1 - Customer claim', donde a groso modo había que organizar y limpiar la data en primer lugar antes de mapearla, para posteriormente realizar el respectivo join entre ambas tablas, que nos permitiese identificar a cuales clientes se les entregó sus pedidos de manera exisota de acuerdo a la orden solicitado, mediante la creación de una función lógica.
